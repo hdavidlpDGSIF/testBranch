@@ -4,7 +4,6 @@ First line
 DESDE GIT a DEV
 ----
 
-
 *****
 Se integra segunda Linea
 Ya se crearon 
@@ -13,9 +12,9 @@ Ya se crearon
         + develop
             + segundaLinea
 
-
 *****
 Datos nueva tarea desde DEV, se llama rama3
+
 
 
 

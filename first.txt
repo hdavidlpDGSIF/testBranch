@@ -1,5 +1,8 @@
 First line
 
+----
+DESDE GIT a DEV
+----
 
 *****
 Se integra segunda Linea
@@ -8,6 +11,11 @@ Ya se crearon
     + staging 
         + develop
             + segundaLinea
+
+*****
+Datos nueva tarea desde DEV, se llama rama3
+
+
 
 
 
